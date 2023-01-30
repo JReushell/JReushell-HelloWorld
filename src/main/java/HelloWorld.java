@@ -14,5 +14,7 @@ public class HelloWorld {
      */
     public String sayHello(){
         return "change me";
+        
+        system.out.print("Hello, world!");
     }
 }
